@@ -1,0 +1,11 @@
+# Local scratch and temporary files
+tmp/
+*.tmp
+
+# Optional full hatch-pet run exports can be large/noisy.
+hatch-pet-runs/
+runs/
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
